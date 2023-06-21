@@ -1,0 +1,64 @@
+
+
+#jd2 {
+    margin-left: 600px;
+}
+
+#jd1 {
+    margin-left: 400px;
+}
+
+#ts1 {
+    margin-left: 350px;
+    
+}
+
+.text {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+#logo {
+    margin-left: 47%;
+}
+
+.zanr {
+    margin-left: 25%;
+}
+.obraz{
+ margin-left: 27%;
+}
+.nadpis{
+    margin-left: 43%;
+    margin-top: 2%;
+}
+.alba{
+    margin-top: 2%;
+    margin-left: 45%;
+}
+#kviz{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.uvod{
+    margin-left: 47%;
+    margin-top: 2%;
+}
+
+#div1 {
+    display: inline-block;
+    width:850px;
+    height:120px;
+    margin-left: 7%;
+    
+}
+#div2 {
+    display: inline-block;
+    width:850px;
+    height:100px;
+}
